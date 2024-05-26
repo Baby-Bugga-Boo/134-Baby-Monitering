@@ -1,0 +1,26 @@
+.heading{
+    font-size:23px;
+    width:100px;
+    margin:0px;
+}
+
+#start, #numberOfObjects, #status{
+    font-size:18px;
+}
+
+.copyrightFoother{
+    position:fixed;
+    color:grey;
+    bottom:0;
+    width:100%;
+    background-color: deeppink;
+    line-height: 3;
+    text-align:center;
+}
+
+canvas{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px white;
+}
